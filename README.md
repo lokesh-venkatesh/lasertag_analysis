@@ -1,4 +1,4 @@
-I did some fun analysis with data from a real life game of lasertag I played with a group of old friends from high school. This was on the 25th of May, 2025 in Coimbatore. Everything's been compiled in a Valorant-style stats-display in the notebook analysis.ipynb. The valo-stats exactly follow the same list as below:
+I did some fun analysis with data from a real life game of lasertag I played with a group of old friends from high school. This was on the 25th of May, 2025 in Coimbatore. Everything's been compiled in a Valorant-style stats-display in the python notebook analysis.ipynb in this repo. The stats follow exactly the same list of metrics as given below:
 
 1. Total Kills per Player – Count of times each player tagged others.
 2. Total Deaths per Player – Count of times each player got tagged.
@@ -26,6 +26,5 @@ I did some fun analysis with data from a real life game of lasertag I played wit
 24. "Survivor" – Longest average time between deaths.
 25. "Focused Fury" – Most kills on the same player in a row.
 
-Hmmmmmmmmmmmmm. Let me know if there's anything I'm missing, or if I need to check for any finer (funny) details.
-
-A video of what the game looks like IRL can be found in lasertag.mp4 in this repo.
+A video of what the game looks like IRL can be found in lasertag.mp4 in this repo. 
+Player names: Marudhu, Nikita, Shruthi, Nitin, Lokesh
